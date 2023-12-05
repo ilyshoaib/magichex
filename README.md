@@ -11,6 +11,8 @@ MagicHEX is a Python script that allows users to perform various operations on f
 ### Running the Script
 
 1. Clone the repository or download the Python script (`MagicHEX.py`).
+
+
 `git clone https://github.com/ilyshoaib/magichex.git`
 2. Open your terminal/command prompt.
 3. Navigate to the directory containing the script.
