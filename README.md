@@ -1,1 +1,1 @@
-# magichex
+# magicHEX
