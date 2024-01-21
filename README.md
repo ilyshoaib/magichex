@@ -20,8 +20,6 @@ MagicHEX allows users to perform various operations on files based on their head
 
    ```bash
    python3 MagicHEX.py /path/to/your/file
-
-
-
+   
 ## Disclaimer
 This tool is provided for educational and informational purposes only. Use it responsibly and at your own risk. The authors are not responsible for any misuse or damage caused by this tool.
