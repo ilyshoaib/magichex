@@ -1,6 +1,5 @@
 # MagicHEX 
-#Coming Soon
-MagicHEX allows users to perform various operations on files based on their headers. It provides options to identify file types by examining their headers, print the hexadecimal representation of file headers, change individual headers to different formats (JPEG, PNG, PDF, DOCX), reverse the file's hexadecimal representation, and save reversed hex as a copy.
+MagicHEX allows users to perform various operations on files based on their headers. It provides options to identify file types by examining their headers, print the hexadecimal representation of file headers, change individual headers to different formats currently (JPEG, PNG, PDF, DOCX), reverse the file's hexadecimal representation, and save reversed hex as a copy.
 
 ## Usage-Guide
 
